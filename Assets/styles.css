@@ -84,3 +84,104 @@ nav ul a {
     width: 100%; 
 }
 
+.container-1 
+  {
+  display: flex;
+  box-sizing: border-box;
+  }
+  .container-1 .box-1
+  {
+  position: relative;
+  bottom: 80px;
+  margin: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-left: 10px solid blueviolet ;
+  width: 25%;
+  }
+  .box-1 img{
+  float: right;
+  padding: 10px;
+  }
+  .container-1 .box-2
+  {
+  position: relative;
+  bottom: 80px;
+  margin: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-left: 10px solid blueviolet ;
+  width: 25%;
+  }
+  .box-2 img{
+  float: right;
+  padding: 10px;
+  }
+  .container-2
+  {
+  display: flex;
+  box-sizing: border-box;
+
+  }
+  .container-2 .box-3
+  {
+  position: relative;
+  bottom: 80px;
+  margin: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-left: 10px solid blueviolet ;
+  width: 25%;
+ }
+ .box-3 img{
+  float: right;
+  padding: 10px;
+ }
+ .container-2 .box-4{
+  position: relative;
+  bottom: 80px;
+  margin: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-left: 10px solid blueviolet ;
+  width: 25%;
+  }
+  .box-4 img{
+  float: right;
+  padding: 10px;
+  }
+  .container-3
+  {
+  display: flex;
+  box-sizing: border-box;
+
+
+  }
+  .container-3 .box-5
+ {
+  position: relative;
+  bottom: 80px;
+  margin: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-left: 10px solid blueviolet ;
+  width: 25%;
+  }
+  .box-5 img{
+  float: right;
+  padding: 10px;
+  }
+  .container-3 .box-6
+  {
+  position: relative;
+  bottom: 80px;
+  margin: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-left: 10px solid blueviolet ;
+  width: 25%;
+  }
+   .box-6 img{
+  float: right;
+  padding: 10px;
+  }
